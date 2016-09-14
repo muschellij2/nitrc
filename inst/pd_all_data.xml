@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cat:Catalog xmlns:abide="http://www.nitrc.org/projects/abide" xmlns:arc="http://nrg.wustl.edu/arc" xmlns:cat="http://nrg.wustl.edu/catalog" xmlns:ir="http://www.nitrc.org/ir" xmlns:nki="http://claymore.rfmh.org/assessments" xmlns:pipe="http://nrg.wustl.edu/pipe" xmlns:prov="http://www.nbirn.net/prov" xmlns:val="http://nrg.wustl.edu/val" xmlns:wrk="http://nrg.wustl.edu/workflow" xmlns:xdat="http://nrg.wustl.edu/security" xmlns:xnat="http://nrg.wustl.edu/xnat" xmlns:xnat_a="http://nrg.wustl.edu/xnat_assessments" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cat:sets>
+		<cat:entrySet ID="NITRC_IR_E10405">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10405/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10405/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10406">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10406/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10406/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10407">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10407/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10407/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10408">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10408/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10408/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10423">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10423/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10423/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10424">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10424/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10424/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10427">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10427/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10427/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10428">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10428/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10428/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10429">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10429/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10429/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10430">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10430/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10430/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10431">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10431/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10431/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10432">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10432/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10432/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10433">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10433/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10433/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10434">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10434/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10434/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10449">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10449/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10449/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10450">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10450/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10450/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10451">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10451/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10451/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10399">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10399/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10399/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10400">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10400/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10400/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10401">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10401/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10401/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10402">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10402/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10402/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10403">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10403/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10403/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10404">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10404/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10404/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10409">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10409/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10409/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10410">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10410/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10410/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10411">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10411/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10411/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10412">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10412/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10412/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10413">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10413/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10413/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10414">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10414/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10414/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10415">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10415/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10415/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10416">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10416/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10416/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10417">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10417/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10417/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10418">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10418/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10418/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10419">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10419/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10419/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10420">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10420/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10420/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10421">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10421/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10421/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10422">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10422/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10422/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10425">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10425/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10425/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10426">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10426/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10426/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10435">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10435/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10435/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10436">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10436/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10436/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10437">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10437/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10437/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10438">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10438/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10438/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10439">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10439/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10439/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10440">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10440/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10440/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10441">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10441/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10441/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10442">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10442/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10442/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10443">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10443/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10443/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10444">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10444/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10444/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10445">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10445/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10445/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10446">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10446/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10446/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10447">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10447/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10447/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E10448">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10448/scans/DWI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E10448/scans/Normalized+TDI+Map/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+	</cat:sets>
+</cat:Catalog>

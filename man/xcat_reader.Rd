@@ -4,10 +4,12 @@
 \alias{xcat_reader}
 \title{XML Category Reader from NITRC}
 \usage{
-xcat_reader(xml_file)
+xcat_reader(xml_file, all_mods)
 }
 \arguments{
 \item{xml_file}{XML file from NITRC}
+
+\item{all_mods}{types of modalities in the data}
 }
 \value{
 \code{data.frame} of URL, ID, and mods

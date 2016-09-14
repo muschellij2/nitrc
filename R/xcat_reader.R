@@ -1,11 +1,11 @@
 #' @title XML Category Reader from NITRC
 #' @description Reads XML Category file from NITRC
 #' @param xml_file XML file from NITRC
-#'
+#' @param all_mods types of modalities in the data
 #' @return \code{data.frame} of URL, ID, and mods
 #' @export
 #' @importFrom xml2 read_xml xml_find_all xml_attr
-xcat_reader = function(xml_file) {
+xcat_reader = function(xml_file, all_mods) {
   xx = read_xml(xml_file)
 
   all_entries = xml_find_all(xx, "//cat:entry")
@@ -20,7 +20,7 @@ xcat_reader = function(xml_file) {
   umods = unique(mods)
   rm(list = c("all_entries", "xx"))
 
-  stopifnot(all(umods %in% c("T2", "T1", "MRA", "PD", "DTI")))
+  stopifnot(all(umods %in% all_mods))
 
   df = data.frame(url = uris,
                   id = ids,
