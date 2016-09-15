@@ -1,4 +1,3 @@
-library(httr)
 #' @title Download NITRC URL
 #' @description Download URL from NITRC
 #' @param username username for authentication
