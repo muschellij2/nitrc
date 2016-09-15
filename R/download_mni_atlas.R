@@ -9,14 +9,16 @@
 #'
 #' @return List of 2 elements, return of \code{GET}, and output filename
 #' @export
+#' @examples
+#' download_mni_atlas("mni305", out_dir = tempdir())
 download_mni_atlas = function(
-  atlas = names(mni_atlas_links),
+  atlas = names(nitrc::mni_atlas_links),
   out_dir = ".",
   verbose = TRUE,
   overwrite = FALSE) {
 
-  atlas = match.arg(atlas, choices = names(mni_atlas_links))
-  url = mni_atlas_links[atlas]
+  atlas = match.arg(atlas, choices = names(nitrc::mni_atlas_links))
+  url = nitrc::mni_atlas_links[atlas]
 
   if (verbose) {
     message(url)

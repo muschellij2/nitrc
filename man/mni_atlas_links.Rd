@@ -4,7 +4,7 @@
 \name{mni_atlas_links}
 \alias{mni_atlas_links}
 \title{MNI atlas Links}
-\format{An object of class \code{character} of length 28.}
+\format{An object of class \code{character} of length 29.}
 \usage{
 mni_atlas_links
 }

@@ -33,10 +33,11 @@ niphd = c(
   "nihpd_asym_07.5-13.5" = "http://www.bic.mni.mcgill.ca/~vfonov/nihpd/obj1/nihpd_asym_07.5-13.5_nifti.zip",
   "nihpd_asym_10.0-14.0" = "http://www.bic.mni.mcgill.ca/~vfonov/nihpd/obj1/nihpd_asym_10.0-14.0_nifti.zip",
   "nihpd_asym_13.0-18.5" = "http://www.bic.mni.mcgill.ca/~vfonov/nihpd/obj1/nihpd_asym_13.0-18.5_nifti.zip",
-  
+
   "nihpd_asym_0-4.5" = "http://www.bic.mni.mcgill.ca/~vfonov/nihpd/obj2/nihpd_obj2_asym_nifti.zip"
 )
 
 pd = c("mni_pd25" = "http://packages.bic.mni.mcgill.ca/mni-models/PD25/mni_PD25_20160706_nifti.zip")
 
-mni_atlas_links = c(mni152, colin, niphd, pd)
+mni_atlas_links = c(mni152, mni305, colin, niphd, pd)
+save(mni_atlas_links, file = "data/mni_atlas_links.rda", compression_level = 9)

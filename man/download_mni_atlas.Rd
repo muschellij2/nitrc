@@ -4,7 +4,7 @@
 \alias{download_mni_atlas}
 \title{Download MNI Atlas Zip file}
 \usage{
-download_mni_atlas(atlas = names(mni_atlas_links), out_dir = ".",
+download_mni_atlas(atlas = names(nitrc::mni_atlas_links), out_dir = ".",
   verbose = TRUE, overwrite = FALSE)
 }
 \arguments{
@@ -22,5 +22,8 @@ List of 2 elements, return of \code{GET}, and output filename
 \description{
 Downloads a single MNI atlas from the MNI website
 (http://nist.mni.mcgill.ca/?page_id=714)
+}
+\examples{
+download_mni_atlas("mni305", out_dir = tempdir())
 }
 
