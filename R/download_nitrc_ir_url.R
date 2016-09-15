@@ -10,6 +10,7 @@
 #'
 #' @return Vector of names of the output files
 #' @export
+#' @importFrom utils unzip
 download_nitrc_ir_url = function(
   url,
   username,

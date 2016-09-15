@@ -11,7 +11,11 @@
 #' @export
 #'
 #' @examples
+#' \dontrun{
 #' x = nitrc_ir_study("ixi")
+#' }
+#' @importFrom utils read.csv
+#'
 nitrc_ir_study = function(
   study = c("ixi", "pd", "fcon_1000", "candi")) {
   make_file = function(x) {

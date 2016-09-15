@@ -21,6 +21,8 @@ Parses the necessary information for the specified NITRC
 Image Repository (IR) Study
 }
 \examples{
+\dontrun{
 x = nitrc_ir_study("ixi")
+}
 }
 
