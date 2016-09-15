@@ -8,7 +8,8 @@ Description: Works with 'NITRC' online system to download data.
 Imports:
     httr,
     base64enc,
-    xml2
+    xml2,
+    plyr
 License: GPL-2
 Encoding: UTF-8
 LazyData: true

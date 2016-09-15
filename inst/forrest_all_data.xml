@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cat:Catalog xmlns:abide="http://www.nitrc.org/projects/abide" xmlns:arc="http://nrg.wustl.edu/arc" xmlns:cat="http://nrg.wustl.edu/catalog" xmlns:ir="http://www.nitrc.org/ir" xmlns:nki="http://claymore.rfmh.org/assessments" xmlns:pipe="http://nrg.wustl.edu/pipe" xmlns:prov="http://www.nbirn.net/prov" xmlns:val="http://nrg.wustl.edu/val" xmlns:wrk="http://nrg.wustl.edu/workflow" xmlns:xdat="http://nrg.wustl.edu/security" xmlns:xnat="http://nrg.wustl.edu/xnat" xmlns:xnat_a="http://nrg.wustl.edu/xnat_assessments" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cat:sets>
+		<cat:entrySet ID="NITRC_IR_E07486">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07486/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07486/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07486/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07486/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07486/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07486/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07487">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07487/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07487/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07487/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07487/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07487/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07487/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07488">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07488/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07488/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07488/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07488/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07488/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07488/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07496">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07496/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07496/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07496/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07496/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07496/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07496/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07489">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07489/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07489/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07489/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07489/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07489/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07489/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07490">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07490/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07490/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07490/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07490/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07490/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07490/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07491">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07491/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07491/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07491/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07491/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07491/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07491/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07492">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07492/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07492/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07492/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07492/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07492/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07492/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07494">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07494/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07494/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07494/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07494/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07494/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07494/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07497">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07497/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07497/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07497/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07497/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07497/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07497/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07499">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07499/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07499/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07499/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07499/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07499/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07499/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07498">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07498/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07498/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07498/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07498/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07498/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07498/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07478">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07478/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07478/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07478/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07478/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07478/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07478/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07479">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07479/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07479/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07479/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07479/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07479/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07479/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07480">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07480/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07480/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07480/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07480/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07480/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07480/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07481">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07481/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07481/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07481/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07481/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07481/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07481/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07482">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07482/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07482/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07482/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07482/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07482/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07482/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07483">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07483/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07483/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07483/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07483/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07483/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07483/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07484">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07484/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07484/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07484/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07484/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07484/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07484/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="NITRC_IR_E07485">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07485/scans/NULL/resources/SNAPSHOTS/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07485/scans/NULL/resources/HDF5/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07485/scans/NULL/resources/NIfTI/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07485/scans/NULL/resources/CSV/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07485/scans/NULL/resources/MAT/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/NITRC_IR_E07485/scans/NULL/resources/Text/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+	</cat:sets>
+</cat:Catalog>

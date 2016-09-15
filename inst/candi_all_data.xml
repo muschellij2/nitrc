@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cat:Catalog xmlns:abide="http://www.nitrc.org/projects/abide" xmlns:arc="http://nrg.wustl.edu/arc" xmlns:cat="http://nrg.wustl.edu/catalog" xmlns:ir="http://www.nitrc.org/ir" xmlns:nki="http://claymore.rfmh.org/assessments" xmlns:pipe="http://nrg.wustl.edu/pipe" xmlns:prov="http://www.nbirn.net/prov" xmlns:val="http://nrg.wustl.edu/val" xmlns:wrk="http://nrg.wustl.edu/workflow" xmlns:xdat="http://nrg.wustl.edu/security" xmlns:xnat="http://nrg.wustl.edu/xnat" xmlns:xnat_a="http://nrg.wustl.edu/xnat_assessments" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cat:sets>
+		<cat:entrySet ID="xnat_E02577">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02577/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02579">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02579/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02581">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02581/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02583">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02583/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02585">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02585/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02587">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02587/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02589">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02589/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02591">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02591/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02593">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02593/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02595">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02595/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02597">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02597/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02599">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02599/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02601">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02601/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02603">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02603/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02605">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02605/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02607">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02607/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02609">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02609/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02611">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02611/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02613">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02613/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02615">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02615/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02617">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02617/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02619">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02619/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02621">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02621/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02623">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02623/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02625">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02625/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02627">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02627/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02629">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02629/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02631">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02631/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02633">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02633/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02635">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02635/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02637">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02637/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02639">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02639/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02641">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02641/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02643">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02643/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02645">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02645/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02647">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02647/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02649">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02649/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02651">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02651/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02653">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02653/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02655">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02655/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02657">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02657/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02659">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02659/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02661">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02661/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02663">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02663/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02665">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02665/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02667">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02667/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02669">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02669/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02671">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02671/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02673">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02673/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02675">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02675/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02677">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02677/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02679">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02679/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02681">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02681/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02683">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02683/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02685">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02685/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02687">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02687/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02689">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02689/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02691">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02691/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02693">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02693/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02695">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02695/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02697">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02697/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02699">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02699/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02701">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02701/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02703">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02703/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02705">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02705/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02707">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02707/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02709">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02709/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02711">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02711/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02713">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02713/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02715">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02715/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02717">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02717/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02719">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02719/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02721">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02721/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02723">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02723/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02725">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02725/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02727">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02727/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02729">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02729/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02731">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02731/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02733">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02733/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02735">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02735/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02737">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02737/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02739">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02739/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02741">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02741/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02743">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02743/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02745">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02745/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02747">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02747/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02749">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02749/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02751">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02751/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02753">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02753/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02755">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02755/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02757">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02757/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02759">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02759/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02761">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02761/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02763">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02763/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02765">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02765/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02767">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02767/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02769">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02769/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02771">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02771/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02773">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02773/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02775">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02775/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02777">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02777/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02779">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02779/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+		<cat:entrySet ID="xnat_E02781">
+			<cat:sets>
+				<cat:entrySet ID="RAW">
+					<cat:entries>
+						<cat:entry URI="http://www.nitrc.org/ir/data/experiments/xnat_E02781/scans/anat/files?format=zip&amp;projectIncludedInPath=true&amp;subjectIncludedInPath=true" format="ZIP"/>
+					</cat:entries>
+				</cat:entrySet>
+			</cat:sets>
+		</cat:entrySet>
+	</cat:sets>
+</cat:Catalog>
