@@ -5,7 +5,7 @@
 \title{Download NITRC Single Image Repository URL}
 \usage{
 download_nitrc_ir_url(url, username, password, out_dir = ".",
-  verbose = TRUE)
+  verbose = TRUE, ...)
 }
 \arguments{
 \item{url}{URL of file to download}
@@ -17,6 +17,8 @@ download_nitrc_ir_url(url, username, password, out_dir = ".",
 \item{out_dir}{Output directory}
 
 \item{verbose}{Print diagnostic messages}
+
+\item{...}{additional options to pass to \code{\link{download_nitrc_url}}}
 }
 \value{
 Vector of names of the output files

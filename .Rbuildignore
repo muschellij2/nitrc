@@ -5,3 +5,4 @@ credentials.R
 get_all_demog.R
 ixi/*
 test.R
+mni_paths.R

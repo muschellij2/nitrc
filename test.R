@@ -4,8 +4,8 @@ library(base64enc)
 library(xml2)
 library(httr)
 source("credentials.R")
-myusername = rawToChar(base64decode(myusername))
-mypassword = rawToChar(base64decode(mypassword))
+username = rawToChar(base64decode(myusername))
+password = rawToChar(base64decode(mypassword))
 
 xml_file = "inst/ixi_all_data.xml"
 df = xcat_reader(xml_file)

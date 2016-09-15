@@ -7,6 +7,7 @@
 #' @param password Password for authentication of NITRC
 #' @param out_dir Output directory
 #' @param verbose Print diagnostic messages
+#' @param ... additional options to pass to \code{\link{download_nitrc_url}}
 #'
 #' @return Vector of names of the output files
 #' @export
@@ -16,8 +17,7 @@ download_nitrc_ir_url = function(
   username,
   password,
   out_dir = ".",
-  verbose = TRUE) {
-
+  verbose = TRUE, ...) {
 
   if (verbose) {
     message(url)
@@ -33,16 +33,18 @@ download_nitrc_ir_url = function(
     nitrc_url = url,
     outfile = outfile,
     fileext = ".zip",
-    overwrite = TRUE)
+    overwrite = TRUE, ...)
   # r1 = L$ret
 
   zz = unzip(outfile, list = TRUE)
+  zz = zz$Name
   # zz = zz$Name[ !grepl("SNAPSHOTS", zz$Name) ]
   id_dir = sub("(.*)scans.*", "\\1", zz)
   id_dir = unique(id_dir)
   id_dir = file.path(out_dir, id_dir)
 
-  retfile = unzip(outfile, files = zz, exdir = id_dir, junkpaths = TRUE)
+  retfile = unzip(outfile, files = zz,
+                  exdir = id_dir, junkpaths = TRUE)
   return(retfile)
 }
 

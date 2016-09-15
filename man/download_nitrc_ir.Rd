@@ -4,8 +4,8 @@
 \alias{download_nitrc_ir}
 \title{Download NITRC Image Repository}
 \usage{
-download_nitrc_ir(study = c("ixi", "pd", "fcon_1000", "candi"), username,
-  password, out_dir = ".", verbose = TRUE)
+download_nitrc_ir(study = c("ixi", "parktdi", "fcon_1000", "candi"), username,
+  password, out_dir = ".", verbose = TRUE, ...)
 }
 \arguments{
 \item{study}{study to be parsed, code see \code{\link{nitrc_ir_study}}}
@@ -17,6 +17,8 @@ download_nitrc_ir(study = c("ixi", "pd", "fcon_1000", "candi"), username,
 \item{out_dir}{Output directory}
 
 \item{verbose}{Print diagnostic messages}
+
+\item{...}{additional options to pass to \code{\link{download_nitrc_ir_url}}}
 }
 \value{
 Vector of names of the output files

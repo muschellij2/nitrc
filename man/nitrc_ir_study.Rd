@@ -4,12 +4,12 @@
 \alias{nitrc_ir_study}
 \title{NITRC Image Repository Study}
 \usage{
-nitrc_ir_study(study = c("ixi", "pd", "fcon_1000", "candi"))
+nitrc_ir_study(study = c("ixi", "parktdi", "fcon_1000", "candi"))
 }
 \arguments{
 \item{study}{study to be parsed
 ixi = IXI,
-pd = High-quality diffusion-weighted imaging of Parkinson's disease
+parktdi = High-quality diffusion-weighted imaging of Parkinson's disease
 fcon_1000 = 1000 Functional Connectomes
 candi = CANDI Share: Schizophrenia Bulletin 2008}
 }

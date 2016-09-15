@@ -3,7 +3,7 @@
 #' Image Repository (IR) Study
 #' @param study study to be parsed
 #' ixi = IXI,
-#' pd = High-quality diffusion-weighted imaging of Parkinson's disease
+#' parktdi = High-quality diffusion-weighted imaging of Parkinson's disease
 #' fcon_1000 = 1000 Functional Connectomes
 #' candi = CANDI Share: Schizophrenia Bulletin 2008
 #'
@@ -17,7 +17,7 @@
 #' @importFrom utils read.csv
 #'
 nitrc_ir_study = function(
-  study = c("ixi", "pd", "fcon_1000", "candi")) {
+  study = c("ixi", "parktdi", "fcon_1000", "candi")) {
   make_file = function(x) {
     system.file(x, package = "nitrc")
   }
@@ -25,7 +25,7 @@ nitrc_ir_study = function(
   if (study == "ixi") {
     all_mods = c("T2", "T1", "MRA", "PD", "DTI")
   }
-  if (study == "pd") {
+  if (study == "parktdi") {
     all_mods = c("DWI", "Normalized+TDI+Map")
   }
   if (study == "fcon_1000") {

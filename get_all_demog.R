@@ -8,10 +8,10 @@ source("credentials.R")
 myusername = rawToChar(base64decode(myusername))
 mypassword = rawToChar(base64decode(mypassword))
 
-# study = "pd"
+# study = "parkdti"
 # study = "ixi"
-# study = "fcon_1000"
-study = "candi"
+study = "fcon_1000"
+# study = "candi"
 
 
 xml_file = paste0("inst/", study, "_all_data.xml")
