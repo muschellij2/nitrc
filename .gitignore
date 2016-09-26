@@ -3,5 +3,5 @@
 .RData
 .Ruserdata
 
-credentials.R
 ixi/*
+credentials.R
