@@ -25,4 +25,3 @@ Image Repository (IR) Study
 x = nitrc_ir_study("ixi")
 }
 }
-

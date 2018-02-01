@@ -1,5 +1,3 @@
-
-
 #' @title Parse Packages from NITRC List
 #' @description Parses the list of projects from \code{\link{nitrc_remote_data}} to a
 #' \code{data.frame} of packages
@@ -12,6 +10,11 @@
 #' js = nitrc_remote_data(spec = "all")
 #' proj = js$projects
 #' doc_df = parse_nitrc_packs(proj)
+#' projects = parse_nitrc_proj(proj, add_attr = TRUE)
+#' dproj = projects[ tolower(projects$attr_name) %in% "data", ]
+#' data_doc = doc_df[ doc_df$proj_id %in% dproj$proj_id, ]
+#' data_doc$type = trimws(data_doc$type)
+#' data_doc$type = trimws(gsub("^Source", "", data_doc$type))
 #'}
 #' @importFrom tidyr spread
 #' @importFrom reshape2 melt
@@ -37,7 +40,8 @@ parse_nitrc_packs = function(proj)  {
   doc_df = lapply(packs, function(pack) {
     # print(i)
 
-    cnames = c("id", "name", "type", "processor", "download_count", "url",
+    cnames = c("id", "name", "type", "processor", "download_count", "size",
+               "url",
                "release_id", "release_name", "package_id", "package_name")
     blank_rel_ids = na_mat(cnames)
 
@@ -77,11 +81,15 @@ parse_nitrc_packs = function(proj)  {
         ids = lapply(r, function(xx) {
           id = remove_null(xx$id)
           name = remove_null(xx$name)
+          size = remove_null(xx$size)
           stopifnot(length(id) == 1)
           stopifnot(length(name) == 1)
+          stopifnot(length(size) == 1)
 
           files = lapply(xx$files, unlist)
-          file_fields = c("id", "name", "type", "processor",
+          file_fields = c("id", "name", "type",
+                          "size",
+                          "processor",
                           "download_count", "url")
           if (length(files) == 0) {
             files = na_mat(file_fields)

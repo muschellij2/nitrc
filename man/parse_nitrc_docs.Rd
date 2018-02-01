@@ -26,4 +26,3 @@ proj = js$projects
 doc_df = parse_nitrc_docs(proj)
 }
 }
-

@@ -26,4 +26,3 @@ Downloads a single MNI atlas from the MNI website
 \examples{
 download_mni_atlas("mni305", out_dir = tempdir())
 }
-

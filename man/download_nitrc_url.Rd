@@ -27,4 +27,3 @@ List of 2 elements, return of \code{GET}, and output filename
 \description{
 Download URL from NITRC
 }
-

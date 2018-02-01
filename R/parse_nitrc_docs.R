@@ -1,4 +1,3 @@
-
 #' @title Parse Documents from NITRC List
 #' @description Parses the list of projects from \code{\link{nitrc_remote_data}} to a
 #' \code{data.frame} of documents

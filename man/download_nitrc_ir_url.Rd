@@ -27,4 +27,3 @@ Vector of names of the output files
 Downloads a single URL from a NITRC Image Repository,
 wrapper function for \code{\link{download_nitrc_url}}
 }
-

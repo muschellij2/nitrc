@@ -45,6 +45,7 @@ download_nitrc_ir_url = function(
 
   retfile = unzip(outfile, files = zz,
                   exdir = id_dir, junkpaths = TRUE)
+  retfile = normalizePath(retfile)
   return(retfile)
 }
 

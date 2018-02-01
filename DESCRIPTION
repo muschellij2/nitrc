@@ -1,10 +1,18 @@
 Package: nitrc
 Type: Package
-Title: Works with NITRC online system
-Version: 0.2.0
-Author: John Muschelli <muschellij2@gmail.com>
-Maintainer: John Muschelli <muschellij2@gmail.com>
-Description: Works with 'NITRC' online system to download data.
+Title: Interfacing Functions with the Neuroimaging Informatics Tools and 
+    Resources Clearinghouse ('NITRC') Online System
+Version: 0.3.0
+Authors@R: c(person(given = "John",
+           family = "Muschelli",
+           email = "muschellij2@gmail.com",
+           role = c("aut")),
+           person(given = "Adi",
+           family = "Gherman",
+           email = "adrian.gherman@gmail.com",
+           role = c("aut", "cre")))
+Description: Provides a series of functions to parse information and download data
+    from the 'NITRC' online repository.
 Imports:
     httr,
     base64enc,
@@ -15,5 +23,7 @@ Imports:
     reshape2
 License: GPL-2
 Encoding: UTF-8
+URL: http://www.nitrc.org/
+BugReports: https://github.com/muschellij2/nitrc/issues
 LazyData: true
-RoxygenNote: 5.0.1.9000
+RoxygenNote: 6.0.1

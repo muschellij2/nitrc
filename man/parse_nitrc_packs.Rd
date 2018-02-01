@@ -21,6 +21,10 @@ Parses the list of projects from \code{\link{nitrc_remote_data}} to a
 js = nitrc_remote_data(spec = "all")
 proj = js$projects
 doc_df = parse_nitrc_packs(proj)
+projects = parse_nitrc_proj(proj, add_attr = TRUE)
+dproj = projects[ tolower(projects$attr_name) \%in\% "data", ]
+data_doc = doc_df[ doc_df$proj_id \%in\% dproj$proj_id, ]
+data_doc$type = trimws(data_doc$type)
+data_doc$type = trimws(gsub("^Source", "", data_doc$type))
 }
 }
-

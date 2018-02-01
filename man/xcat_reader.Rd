@@ -17,4 +17,3 @@ xcat_reader(xml_file, all_mods)
 \description{
 Reads XML Category file from NITRC
 }
-

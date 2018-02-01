@@ -9,7 +9,7 @@
 #'
 #' @return List of 2 elements, return of \code{GET}, and output filename
 #' @export
-#' @importFrom httr GET authenticate write_disk progress
+#' @importFrom httr GET authenticate write_disk progress stop_for_status
 download_nitrc_url = function(
   username,
   password,
@@ -26,6 +26,7 @@ download_nitrc_url = function(
                         type = "basic"),
            write_disk(outfile, overwrite = overwrite),
            progress())
+  stop_for_status(r1)
   L = list(ret = r1,
            outfile = outfile)
   return(L)

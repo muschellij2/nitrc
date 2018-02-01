@@ -22,4 +22,3 @@ and parses it to a list.
 \examples{
 res = nitrc_remote_data(spec = "589")
 }
-
